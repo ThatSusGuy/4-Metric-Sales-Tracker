@@ -114,7 +114,7 @@
   <script>
     const fmtMoney = (n) => {
       if (n == null || isNaN(n)) return "—";
-      return "$" + Math.round(n).toLocaleString("en-US");
+      return "₹" + Math.round(n).toLocaleString("en-IN");
     };
     const fmtPct = (n) => {
       if (n == null || isNaN(n)) return "—";
