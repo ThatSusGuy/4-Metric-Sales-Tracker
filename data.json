@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T02:30:48.105Z",
+  "generatedAt": "2026-06-02T02:30:48.057Z",
   "metrics": {
     "streak": {
       "current": 0,
@@ -7,19 +7,19 @@
       "recordEndedOn": null
     },
     "contractValueWeek": {
-      "current": 576000,
+      "current": 0,
       "record": 576000,
       "recordDate": "2026-05-28"
     },
     "cashCollectedWeek": {
-      "current": 576000,
+      "current": 0,
       "record": 576000,
       "recordDate": "2026-05-28"
     },
     "closeRateWeek": {
-      "current": 1,
-      "currentCloses": 1,
-      "currentGpCalls": 1,
+      "current": null,
+      "currentCloses": 0,
+      "currentGpCalls": 0,
       "record": 1,
       "recordWeekStart": "2026-05-25"
     }
