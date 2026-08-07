@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T02:30:49.083Z",
+  "generatedAt": "2026-08-07T02:30:48.532Z",
   "metrics": {
     "streak": {
       "current": 0,
@@ -17,9 +17,9 @@
       "recordDate": "2026-05-28"
     },
     "closeRateWeek": {
-      "current": null,
+      "current": 0,
       "currentCloses": 0,
-      "currentGpCalls": 0,
+      "currentGpCalls": 1,
       "record": 1,
       "recordWeekStart": "2026-05-25"
     }
